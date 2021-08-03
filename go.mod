@@ -11,6 +11,8 @@ require (
 	github.com/dchest/siphash v1.2.2
 	github.com/dnaeon/go-vcr v1.2.0 // indirect
 	github.com/elithrar/simple-scrypt v1.3.0
+	github.com/go-chi/chi/v5 v5.0.3
+	github.com/go-chi/httplog v0.2.0
 	github.com/go-ole/go-ole v1.2.5
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/google/go-cmp v0.5.6
@@ -25,6 +27,7 @@ require (
 	github.com/pkg/sftp v1.13.2
 	github.com/pkg/xattr v0.4.3
 	github.com/restic/chunker v0.4.0
+	github.com/rs/zerolog v1.23.0 // indirect
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
